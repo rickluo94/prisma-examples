@@ -12,20 +12,20 @@
   },
   "dependencies": {
     "@apollo/client": "3.7.10",
-    "@pothos/plugin-prisma": "3.42.0",
-    "@pothos/core": "3.27.1",
+    "@pothos/plugin-prisma": "3.45.0",
+    "@pothos/core": "3.28.0",
     "@prisma/client": "4.11.0",
     "graphql": "16.6.0",
-    "graphql-scalars": "1.20.1",
-    "graphql-yoga": "3.7.2",
+    "graphql-scalars": "1.20.4",
+    "graphql-yoga": "3.7.3",
     "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-markdown": "8.0.5"
+    "react-markdown": "8.0.6"
   },
   "devDependencies": {
     "@types/graphql": "14.5.0",
-    "@types/node": "18.15.0",
+    "@types/node": "18.15.5",
     "@types/react": "18.0.28",
     "prisma": "4.11.0",
     "ts-node": "10.9.1",
